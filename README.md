@@ -34,5 +34,4 @@ If you want to contribute to the project, please follow the following steps:
 5. Push your changes to your forked repository
 6. Create a pull request to the main repository
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/shalin-devkota/Chatgpt-discord-bot/blob/master/LICENSE) file for more details.
+
